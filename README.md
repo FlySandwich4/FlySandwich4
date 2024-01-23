@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **VisionX Full Stack Dev**
 
-- 🌱 I’m currently learning **Advance MySQL, Advance C++**
+- 🌱 I’m currently learning **Advance Golang, Advance C++**
 
 - 👯 I’m looking to collaborate on **New Grad Full Time Positions**
 
 - 👨‍💻 All of my projects are available at [flysandwich.com](flysandwich.com)
 
-- 💬 Ask me about **C++, Django, Express**
+- 💬 Ask me about **C++, Golang, Fullstack Dev**
 
 - 📫 How to reach me **liamwu4@gmail.com**
 
