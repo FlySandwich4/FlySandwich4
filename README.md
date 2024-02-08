@@ -4,11 +4,20 @@
   <p align="center"> 📄 Know about my experiences <a href="https://flysandwich.com">flysandwich.com</a></p>
 </div>
 
-
 <h1 align="center"> Contribution </h1>
-<p align="center">&nbsp;<img align="center" style="width:100vw;" src="https://github-readme-stats.vercel.app/api?username=flysandwich4&show_icons=true&locale=en&theme=dark" alt="flysandwich4" /></p>
 
-<p align="center"><img align="center" style="width:100vw;" src="https://github-readme-streak-stats.herokuapp.com/?user=flysandwich4&theme=dark" alt="flysandwich4" /></p>
+<table style="border-collapse: collapse;">
+  <tr>
+    <td align="left" style="border: none;">
+      <img align="left" style="width:100%;" src="https://github-readme-stats.vercel.app/api?username=flysandwich4&show_icons=true&locale=en&theme=dark" alt="flysandwich4" />
+    </td>
+    <td align="right" style="border: none;">
+      <img align="right" style="width:100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=flysandwich4&theme=dark" alt="flysandwich4" />
+    </td>
+  </tr>
+</table>
 
-<hr style="margin:0; border-radius:2px; border-color: black;"> </hr>
-<div align="center"> Think outside the box </div>
+<div align="center"> 
+  <hr style="margin:0; border-radius:2px; border-color: black;"> </hr>
+  Think outside the box 
+</div>
