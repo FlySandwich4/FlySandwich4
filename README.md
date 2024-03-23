@@ -18,6 +18,5 @@
 </table>
 
 <div align="center"> 
-  <hr style="margin:0; border-radius:2px; border-color: black;"> </hr>
-  Think outside the box 
+  <b>Think outside the box </b>
 </div>
